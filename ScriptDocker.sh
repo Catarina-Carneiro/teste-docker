@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo docker status idConteiner
-sudo docker exec -t idConteiner
+sudo docker status a622dffc3ea8 
+sudo docker exec -t a622dffc3ea8 
